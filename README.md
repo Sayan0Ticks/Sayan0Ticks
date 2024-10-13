@@ -20,6 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0Ticks&" alt="ticks" /></p>
 
+[![An image of @sayan0ticks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayan0ticks)](https://holopin.io/@sayan0ticks)
+
 
 <!--
 **Sayan0Ticks/Sayan0Ticks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
